@@ -1,0 +1,30 @@
+# Program to print a simple message
+print("Hello AI Engineer")
+
+# Day 1 - Input example
+
+name = input("Enter your name: ")
+print("Welcome", name)
+
+age = int(input("Enter your age: "))
+print("Your age is", age)
+
+# Day 1 - Practice programs
+
+# 1. Print your age
+age = 22
+print("My age is", age)
+
+# 2. Add three numbers
+a = 10
+b = 20
+c = 30
+print("Sum of three numbers:", a + b + c)
+
+# 3. Multiply two numbers
+x = 5
+y = 4
+print("Multiplication:", x * y)
+
+# 4. Print a sentence
+print("I am learning Python for AI")
