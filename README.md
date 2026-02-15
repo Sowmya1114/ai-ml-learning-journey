@@ -2,7 +2,7 @@
 This repository documents my journey of learning Artificial Intelligence 
 and Machine Learning from scratch.
 
-## Day 01 – Python Basics
+# Day-01 Python basics
 Topics covered:
 - Introduction to Python
 - print() function
@@ -12,9 +12,9 @@ Topics covered:
 
 Practice includes simple Python programs written and tested by me.
 
-# Day 02 – Data Types & Conditional Statements
+# Day-02 Data types and Conditional statements
 
-## Topics Covered
+## topics covered
 - Python data types: int, float, string, boolean
 - type() function
 - Type conversion (int, float)
@@ -23,11 +23,11 @@ Practice includes simple Python programs written and tested by me.
 - Even or odd number
 - Positive or negative number
 - Find biggest of two numbers
-## Learning Outcome
+## Learning outcome
 Gained clarity on how Python handles different types of data and how
 to control program flow using conditional statements.
 
-# Day 03 – Loops in Python
+# Day-03 Loops in Python
 
 ## Topics Covered
 - for loop
@@ -47,3 +47,19 @@ Understood how to repeat tasks using loops and apply logic inside loops
 for solving basic programming problems.
 
                                                                                                                                                                           
+# Day 04 List,Tuple,Set
+
+## Topics covers
+-List: create, access, add, remove, slicing
+-Tuple: immutable sequences, access elements
+-Set: unique, unordered, add/remove, membership check
+
+## Practice Programs
+- Basic operations with lists, tuples, sets
+- Sum of numbers in a list
+- Access tuple elements
+- Set operations: add/remove/check
+
+## Learning Outcome
+Understood Python collection types and how to manipulate and access data,
+which is essential for handling data in ML/AI projects.
