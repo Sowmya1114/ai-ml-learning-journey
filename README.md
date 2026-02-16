@@ -63,3 +63,21 @@ for solving basic programming problems.
 ## Learning Outcome
 Understood Python collection types and how to manipulate and access data,
 which is essential for handling data in ML/AI projects.
+
+# Day 05 – Dictionaries & Functions
+
+## Topics Covered
+- Python dictionaries (key-value pairs)
+- Adding, updating and looping dictionaries
+- Functions using def
+- Function parameters and return values
+
+## Practice Programs
+- Student details using dictionary
+- Marks calculation
+- Even/Odd check using function
+- Maximum of two numbers using function
+
+## Learning Outcome
+Learned how to store structured data using dictionaries and how to
+reuse logic using functions, which are essential for ML and AI projects.
