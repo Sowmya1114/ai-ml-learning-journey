@@ -81,3 +81,17 @@ which is essential for handling data in ML/AI projects.
 ## Learning Outcome
 Learned how to store structured data using dictionaries and how to
 reuse logic using functions, which are essential for ML and AI projects.
+
+# Day 06 – File Handling & Advanced Functions
+
+## Topics Covered
+- File handling using read, write and append modes
+- Using with statement for file operations
+- Advanced functions with default arguments
+- Returning multiple values from functions
+- Writing simple real-world file based programs
+
+## Learning Outcome
+Understood how to store and retrieve data using files and how to
+structure reusable and advanced functions, which are essential for
+building real-world Python and ML applications.
