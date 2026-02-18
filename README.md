@@ -95,3 +95,21 @@ reuse logic using functions, which are essential for ML and AI projects.
 Understood how to store and retrieve data using files and how to
 structure reusable and advanced functions, which are essential for
 building real-world Python and ML applications.
+
+# Day 07 – OOP: Classes & Objects
+
+## Topics Covered
+- Classes & Objects
+- __init__ constructor
+- Attributes and Methods
+- Inheritance
+
+## Practice Programs
+- Student class example
+- Car class example
+- Person/Employee inheritance example
+- BankAccount mini project
+
+## Learning Outcome
+Understood object-oriented concepts which are essential for building
+modular, reusable, and scalable code in ML/AI projects.
