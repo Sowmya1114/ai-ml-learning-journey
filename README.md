@@ -113,3 +113,18 @@ building real-world Python and ML applications.
 ## Learning Outcome
 Understood object-oriented concepts which are essential for building
 modular, reusable, and scalable code in ML/AI projects.
+
+# Day 08 – OOP Advanced & Modules
+
+## Topics Covered
+- Encapsulation (private variables)
+- Polymorphism
+- Abstraction (ABC)
+- Python modules & imports
+
+## Mini Project
+- Student Result System using OOP + modules
+
+## Learning Outcome
+Learned how real-world applications and ML frameworks
+use object-oriented principles for scalable design.
