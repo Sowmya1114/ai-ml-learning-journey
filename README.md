@@ -128,3 +128,15 @@ modular, reusable, and scalable code in ML/AI projects.
 ## Learning Outcome
 Learned how real-world applications and ML frameworks
 use object-oriented principles for scalable design.
+
+# Day 09 – NumPy Basics
+
+## Topics Covered
+- NumPy arrays
+- Array operations
+- Shape & reshape
+- Indexing and slicing
+
+## Learning Outcome
+Understood how numerical data is represented and
+manipulated efficiently for machine learning.
