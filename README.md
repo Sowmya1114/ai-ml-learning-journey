@@ -140,3 +140,15 @@ use object-oriented principles for scalable design.
 ## Learning Outcome
 Understood how numerical data is represented and
 manipulated efficiently for machine learning.
+
+# Day 10 – NumPy Advanced
+
+## Topics Covered
+- NumPy mathematical functions
+- Random number generation
+- Broadcasting
+- Boolean masking
+
+## Learning Outcome
+Learned how NumPy is used for real-world
+data preprocessing in machine learning.
