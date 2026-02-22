@@ -152,3 +152,15 @@ manipulated efficiently for machine learning.
 ## Learning Outcome
 Learned how NumPy is used for real-world
 data preprocessing in machine learning.
+
+# Day 11 – Pandas Basics
+
+## Topics Covered
+- Series and DataFrame
+- Reading and writing CSV files
+- Data filtering and selection
+- Basic data analysis
+
+## Learning Outcome
+Learned how to handle real-world tabular data
+and prepare datasets for machine learning.
