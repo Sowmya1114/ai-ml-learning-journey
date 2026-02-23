@@ -164,3 +164,9 @@ data preprocessing in machine learning.
 ## Learning Outcome
 Learned how to handle real-world tabular data
 and prepare datasets for machine learning.
+
+## Update (Feb–Mar 2026)
+
+- Planned break from **23 Feb to 10 Mar 2026**
+- Reason: revision of fundamentals
+- Learning resumes from **10 March 2026**
