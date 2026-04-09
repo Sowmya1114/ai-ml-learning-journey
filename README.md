@@ -170,3 +170,10 @@ and prepare datasets for machine learning.
 - Planned break from **23 Feb to 10 Mar 2026**
 - Reason: revision of fundamentals
 - Learning resumes from **10 March 2026**
+
+##  Update (Feb–Apr 2026)
+
+- Planned break from **23 Feb to 9 Apr 2026**
+- Reason: revision of fundamentals
+- Learning resumed from **9 April 2026**
+- Currently focusing on Machine Learning (NumPy, Pandas, Data Preprocessing)
